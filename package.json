@@ -1,0 +1,12 @@
+{
+  "name": "wheel-tvbet-bot",
+  "version": "1.0.0",
+  "main": "wheel_bot_gemini.js",
+  "scripts": {
+    "start": "node wheel_bot_gemini.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "node-fetch": "^3.3.2"
+  }
+}
